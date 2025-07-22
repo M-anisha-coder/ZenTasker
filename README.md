@@ -31,10 +31,9 @@ Coming soon...
 ---
 
 ## 🛠 Tech Stack
-
-- Frontend: _[Your tech stack here]_  
-- Backend: _[Your backend stack here]_  
-- Database: _[e.g., PostgreSQL, MongoDB]_  
+  
+- Backend: NodeJS, ExpressJS  
+- Database: MongoDB  
 
 ---
 
@@ -52,7 +51,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📫 Contact
 
-Feel free to reach out via [your email] or open an issue.
+Feel free to reach out via Manishavisvkrama12345@gmail.com or open an issue.
 
 ---
 
